@@ -79,3 +79,15 @@ Adicionar o componente react-router-dom
 ```bash
 npm install react-router-dom
 ```
+
+
+
+<img width="1908" height="898" alt="Image" src="https://github.com/user-attachments/assets/8ea377d7-0425-4cf2-9793-de988b51965c" />
+
+<img width="1885" height="719" alt="Image" src="https://github.com/user-attachments/assets/c00f65c4-650d-470d-9c64-b6aaeb2de4fe" />
+
+<img width="1883" height="650" alt="Image" src="https://github.com/user-attachments/assets/e822c714-d12d-4811-8c3b-ea0ad5e7f087" />
+
+<img width="1906" height="886" alt="Image" src="https://github.com/user-attachments/assets/b92f302c-2a5e-4ef8-a499-e7ec44b674ff" />
+
+<img width="1890" height="249" alt="Image" src="https://github.com/user-attachments/assets/71507729-b533-49d6-a9cc-d688fc58c37a" />
